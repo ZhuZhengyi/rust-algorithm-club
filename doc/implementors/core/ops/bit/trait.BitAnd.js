@@ -6,4 +6,5 @@ implementors["rust_algorithm_club"] = [{text:"impl&lt;'a, 'b, T&gt; <a class=\"t
             } else {
                 window.pending_implementors = implementors;
             }
-        })()
+        
+})()
